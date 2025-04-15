@@ -1,3 +1,4 @@
 # In .gitignore
 .venv/
 .src/
+.idea

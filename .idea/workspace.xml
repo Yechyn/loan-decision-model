@@ -5,21 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9fb05ce-de94-4b4b-baa3-9ec2964728c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/notebooks/01_data_preparation_and_EDA.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/notebooks/02-modeling_baseline.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/notebooks/03-modeling_XGBoost.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Loan_status_2007-2020Q3-100ksample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/loan_prediction_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/notebooks/03-modeling_XGBoost.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/notebooks/03-modeling_XGBoost.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yechyn&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yechyn/loan-decision-model&quot;,
+    &quot;accountId&quot;: &quot;53e09110-1b5c-468c-a6b9-95299757ae83&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 4
@@ -74,7 +91,12 @@
       <workItem from="1744643110817" duration="516000" />
       <workItem from="1744643643874" duration="2654000" />
       <workItem from="1744728571132" duration="1344000" />
-      <workItem from="1744729947766" duration="1515000" />
+      <workItem from="1744729947766" duration="1596000" />
+      <workItem from="1744735179558" duration="1482000" />
+      <workItem from="1744974889921" duration="891000" />
+      <workItem from="1744978115562" duration="2233000" />
+      <workItem from="1744980389981" duration="241000" />
+      <workItem from="1744980642453" duration="1905000" />
     </task>
     <servers />
   </component>

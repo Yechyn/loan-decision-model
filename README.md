@@ -44,7 +44,7 @@ loan-decision-model/
 ├── data/
 │   ├── processed/
 │   │   └── loan_data_baseline_ready.csv  # Cleaned dataset used in modeling
-        ├── cleaned_loan_data.csv  # Dataset after data preparation
+│       ├── cleaned_loan_data.csv  # Dataset after data preparation
 │   └── raw/
 │       └── Loan_status_2007-2020Q3-100ksample.csv  # Raw dataset
 ├── notebooks/
@@ -52,6 +52,7 @@ loan-decision-model/
 │   ├── 02_modeling_baseline.ipynb   #baseline model
 │   └── 03-modeling_XGBoost.ipynb    #final XGBoost model
 ├── reports/
+│   ├── loan_approval_architecture.png   #Architecture diagramm
 │   └── project_summary.md          # Summary or final report
 ├── requirements.txt                # Project dependencies
 └── README.md                       # Project documentation
